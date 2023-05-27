@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="439c0f03-9239-483e-8b96-c51ffd22ebd8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_report.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mypack/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/report1/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/report10/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/report11/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/report13/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/report14/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/report15/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/report15/Box3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/report18/Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/report18/abd.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/report19/Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/report2/SimpleObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/report20/ArrayListSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/report3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/report4/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/report5/Summation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/report6/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/report6/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/report6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/report7/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/report8/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/report9/A.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QHuRT1x6wPpKvT0FmsGYpUP1qb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Lab_report\src\report18" />
+      <recent name="D:\Lab_report\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.report18.Exception">
+    <configuration name="Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="report19.Exception" />
+      <module name="Lab_report" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="report19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="report13.Fibonacci" />
+      <module name="Lab_report" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="report13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToTestInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="report11.ToTestInt" />
+      <module name="Lab_report" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="report11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="report10.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="report10.Main" />
+      <module name="Lab_report" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="report10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="report18.Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="report18.Exception" />
+      <module name="Lab_report" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="report18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.report18.Exception" />
+        <item itemvalue="Application.Exception" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.ToTestInt" />
+        <item itemvalue="Application.report10.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="439c0f03-9239-483e-8b96-c51ffd22ebd8" name="Changes" comment="" />
+      <created>1685022822361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685022822361</updated>
+    </task>
+    <servers />
+  </component>
+</project>
